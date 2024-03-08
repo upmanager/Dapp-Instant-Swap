@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="479px" height="479px" viewBox="0 0 479 479" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Oval</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-dasharray="10" stroke-opacity="0.4">
+        <g id="circle-dashes" transform="translate(1.000000, 1.000000)" stroke="#FFFFFF" stroke-width="3">
+            <path d="M238.173,476.18 C369.424023,476.18 475.824,369.780023 475.824,238.529 C475.824,107.277977 369.424023,0.878 238.173,0.878 C106.921977,0.878 0.522,107.277977 0.522,238.529 C0.522,369.780023 106.921977,476.18 238.173,476.18 Z" id="Oval"></path>
+        </g>
+    </g>
+</svg>

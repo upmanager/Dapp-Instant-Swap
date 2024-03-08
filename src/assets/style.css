@@ -1,0 +1,126 @@
+.connect__wallet_image {
+  display: flex !important;
+  width: 100% !important;
+  justify-content: center !important;
+  align-items: center !important;
+}
+.p-dialog-header {
+  background: #16162d !important;
+  color: #e5e4fa !important;
+  border: none !important;
+  border-top-left-radius: 24px !important;
+  border-top-right-radius: 24px !important;
+}
+.p-dialog-content {
+  background: #16162d !important;
+  border: none !important;
+  border-bottom-left-radius: 24px !important;
+  border-bottom-right-radius: 24px !important;
+  color: #e5e4fa !important;
+}
+
+.p-dialog-title {
+  font-size: 20px;
+  line-height: 24px;
+  font-weight: 600;
+  text-align: center;
+  width: 100%;
+  margin: 0 0 0 16px;
+  font-family: "Segoe UI";
+  text-align: center;
+  color: #e5e4fa;
+}
+
+.connect {
+  margin: 0;
+  border-radius: 12px;
+  background-color: #28253e !important;
+  min-height: 64px;
+  font-size: 17px;
+  line-height: 24px;
+  font-weight: 600;
+  -webkit-animation: fade-3a0c5178 0.15s ease-in-out;
+  animation: fade-3a0c5178 0.15s ease-in-out;
+  border: none !important;
+  outline: none !important;
+}
+
+.connect:hover {
+    background-color: #33284f !important;
+    border: none !important;
+    outline: none !important;
+    color: #fff !important;
+}
+
+.wallet-logo {
+  height: 36px !important;
+  width: 36px !important;
+}
+
+.p-button {
+    color: #fff;
+    width: 100%;
+    padding: 0.75rem 1.25rem;
+    font-size: 1rem;
+    transition: background-color .2s,color .2s,border-color .2s,box-shadow .2s !important;
+    border-radius: 16px;
+}
+.mr-3{
+    margin-right: 1rem!important;
+}
+.p-button:active {
+    border-color: #a28bfc !important;
+}
+
+.p-button:focus{
+    box-shadow: none !important;
+}
+.connect__description{
+    display: flex !important;
+    justify-content: space-between !important;
+    width: 100% !important;
+    align-items: center !important;
+}
+.connect__title{
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: flex-start !important;
+}
+
+.connect__caption{
+    font-size: 13px;
+    line-height: 24px;
+    color: #9594aa;
+    font-weight: 400;
+    text-align: left;
+}
+.chevron{
+    border-radius: 50px;
+    height: 36px;
+    width: 36px;
+    background-color: #3e3e52;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.wallets{
+  transition: visibility 0s, opacity 2s linear;
+}
+
+.p-dialog-content::-webkit-scrollbar {
+  width: 16px;
+}
+
+.p-dialog-content::-webkit-scrollbar-track {
+  background-color: #24272e;
+  border-radius: 100px;
+}
+
+.p-dialog-content::-webkit-scrollbar-thumb {
+  background-color: white;
+  border-radius: 100px;
+}
+
+.w3a-modal{
+  z-index: 10;
+}
